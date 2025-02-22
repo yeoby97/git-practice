@@ -1,6 +1,10 @@
 team: Panthers
 
+<<<<<<< HEAD
 manager: Shirley
+=======
+manager: Raymond
+>>>>>>> 7996d1b (Edit Panthers)
 coach: Teddy
 
 members:
